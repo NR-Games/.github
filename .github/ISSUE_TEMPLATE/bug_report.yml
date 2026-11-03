@@ -1,5 +1,5 @@
 name: Bug report
-description: Something works wrong in a game, app or library.
+description: Something works wrong in a game, app or library
 labels: [bug]
 body:
   - type: input
