@@ -10,7 +10,9 @@
   <a href="https://x.com/nikrybs">X</a> ·
   <a href="https://www.tiktok.com/@nik_rybak">TikTok</a> ·
   <a href="https://www.pinterest.com/nekrybak/">Pinterest</a> ·
-  <a href="https://www.producthunt.com/@nikrybak">Product Hunt</a>
+  <a href="https://www.producthunt.com/@nikrybak">Product Hunt</a> ·
+  <a href="https://bsky.app/profile/nrgames.bsky.social">Bluesky</a> ·
+  <a href="https://www.facebook.com/61594451574649">Facebook</a>
 </p>
 
 **NR Games** is an independent studio by Nikita Rybak that designs, builds and publishes games and software:
