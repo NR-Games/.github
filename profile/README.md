@@ -12,7 +12,9 @@
   <a href="https://www.pinterest.com/nekrybak/">Pinterest</a> ·
   <a href="https://www.producthunt.com/@nikrybak">Product Hunt</a> ·
   <a href="https://bsky.app/profile/nrgames.bsky.social">Bluesky</a> ·
-  <a href="https://www.facebook.com/61594451574649">Facebook</a>
+  <a href="https://www.facebook.com/nrg2026">Facebook</a> ·
+  <a href="https://www.instagram.com/rybak.nekyadnex.ru/">Instagram</a> ·
+  <a href="https://www.threads.com/@rybak.nekyadnex.ru">Threads</a>
 </p>
 
 **NR Games** is an independent studio by Nikita Rybak that designs, builds and publishes games and software:
@@ -34,7 +36,8 @@ Every title and what comes next: [the catalog](https://rybaknekyadnexru-cell.git
 - **Gameplay clips** on [TikTok](https://www.tiktok.com/@nik_rybak)
 - **Studio news** on [X](https://x.com/nikrybs)
 - **Pictures solved in Nonoku** on [Pinterest](https://www.pinterest.com/nekrybak/nonogram-pictures/)
-- **Launches** on [Product Hunt](https://www.producthunt.com/products/nonoku-nonogram-sudoku)
+- **Launches** on [Product Hunt](https://www.producthunt.com/@nikrybak)
+- **Posts and stories** on [Bluesky](https://bsky.app/profile/nrgames.bsky.social), [Facebook](https://www.facebook.com/nrg2026), [Instagram](https://www.instagram.com/rybak.nekyadnex.ru/) and [Threads](https://www.threads.com/@rybak.nekyadnex.ru)
 - **All NR Games apps** on the [Google Play developer page](https://play.google.com/store/apps/dev?id=7254190327706267873)
 
 ## Guides for players
